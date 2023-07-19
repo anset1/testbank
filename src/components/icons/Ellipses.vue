@@ -1,0 +1,10 @@
+<template>
+  <svg width="649" height="420" viewBox="0 0 649 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="417" cy="417" r="76" stroke="white" stroke-width="2"/>
+    <circle opacity="0.4" cx="417" cy="417" r="144" stroke="white" stroke-width="2"/>
+    <circle opacity="0.2" cx="417" cy="417" r="212" stroke="white" stroke-width="2"/>
+    <circle opacity="0.1" cx="417" cy="417" r="280" stroke="white" stroke-width="2"/>
+    <circle opacity="0.1" cx="417" cy="417" r="348" stroke="white" stroke-width="2"/>
+    <circle opacity="0.05" cx="417" cy="417" r="416" stroke="white" stroke-width="2"/>
+  </svg>
+</template>
