@@ -172,6 +172,30 @@ const router = createRouter({
         layout: 'DefaultLayout'
       }
     },
+    {
+      path: '/legal-service-incorporation',
+      name: 'LegalServiceIncorporation',
+      component: () => import('@/views/LegalServiceIncorporation.vue'),
+      meta: {
+        layout: 'DefaultLayout'
+      }
+    },
+    {
+      path: '/legal-support',
+      name: 'LegalSupport',
+      component: () => import('@/views/LegalSupport.vue'),
+      meta: {
+        layout: 'DefaultLayout'
+      }
+    },
+    {
+      path: '/legal-service',
+      name: 'LegalService',
+      component: () => import('@/views/LegalService.vue'),
+      meta: {
+        layout: 'DefaultLayout'
+      }
+    },
   ]
 })
 /* MainPage.vue */
